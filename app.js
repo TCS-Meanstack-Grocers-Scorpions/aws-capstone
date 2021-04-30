@@ -37,7 +37,7 @@ var Employee = require('./Employees/router/emp.router.js');
 var Admin = require('./Admin/router/admin.router.js');
 var Request = require('./Requests/router/requests.router.js');
 var Order = require('./Orders/router/orders.router.js');
-var Users = require('./Users/router/user.router.js');
+var Users = require('./Users/router/User.router.js');
 var Sales = require("./Sales/router/sales.router.js");
 
 // http://localhost:9090/product/viewProducts   Get App Product Details
